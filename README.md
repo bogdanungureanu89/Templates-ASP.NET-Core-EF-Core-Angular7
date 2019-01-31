@@ -1,4 +1,4 @@
-# Templates-ASP.NETCoreEFCoreAngular7
+# Templates-ASP.NET-Core-EF-Core-Angular7
 Template for an ASP.NET Core 2.2 WebAPI application with an Angular 7 SPA, Entity Framework Core 2.2 and project separations
 
 ## The solution is structured into 4 components:
