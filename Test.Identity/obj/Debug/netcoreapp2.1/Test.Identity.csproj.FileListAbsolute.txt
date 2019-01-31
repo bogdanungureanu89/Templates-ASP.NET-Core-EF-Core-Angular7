@@ -1,0 +1,9 @@
+C:\Users\bungureanu\source\repos\Test\Test.Identity\bin\Debug\netcoreapp2.1\Test.Identity.deps.json
+C:\Users\bungureanu\source\repos\Test\Test.Identity\bin\Debug\netcoreapp2.1\Test.Identity.dll
+C:\Users\bungureanu\source\repos\Test\Test.Identity\bin\Debug\netcoreapp2.1\Test.Identity.pdb
+C:\Users\bungureanu\source\repos\Test\Test.Identity\obj\Debug\netcoreapp2.1\Test.Identity.csprojAssemblyReference.cache
+C:\Users\bungureanu\source\repos\Test\Test.Identity\obj\Debug\netcoreapp2.1\Test.Identity.csproj.CoreCompileInputs.cache
+C:\Users\bungureanu\source\repos\Test\Test.Identity\obj\Debug\netcoreapp2.1\Test.Identity.AssemblyInfoInputs.cache
+C:\Users\bungureanu\source\repos\Test\Test.Identity\obj\Debug\netcoreapp2.1\Test.Identity.AssemblyInfo.cs
+C:\Users\bungureanu\source\repos\Test\Test.Identity\obj\Debug\netcoreapp2.1\Test.Identity.dll
+C:\Users\bungureanu\source\repos\Test\Test.Identity\obj\Debug\netcoreapp2.1\Test.Identity.pdb
