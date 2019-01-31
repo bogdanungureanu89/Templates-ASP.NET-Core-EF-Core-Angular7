@@ -1,5 +1,5 @@
 # Templates-ASP.NETCoreEFCoreAngular7
-Template for an ASP.NET Core WebAPI application with an Angular 7 Spa, Entity Framework Core and project separations
+Template for an ASP.NET Core 2.2 WebAPI application with an Angular 7 Spa, Entity Framework Core 2.2 and project separations
 
 ## The solution is structured into 4 components:
 Data - having Entity Framework Core installed, a base DbContext setup and a Generic Repository to handle entities  
