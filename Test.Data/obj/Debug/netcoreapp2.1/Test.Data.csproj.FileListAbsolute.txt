@@ -7,3 +7,12 @@ C:\Users\bungureanu\source\repos\Test\Test.Data\bin\Debug\netcoreapp2.1\Test.Dat
 C:\Users\bungureanu\source\repos\Test\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.dll
 C:\Users\bungureanu\source\repos\Test\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.pdb
 C:\Users\bungureanu\source\repos\Test\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.csprojAssemblyReference.cache
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\bin\Debug\netcoreapp2.1\Test.Data.deps.json
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\bin\Debug\netcoreapp2.1\Test.Data.dll
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\bin\Debug\netcoreapp2.1\Test.Data.pdb
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.csprojAssemblyReference.cache
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.csproj.CoreCompileInputs.cache
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.AssemblyInfoInputs.cache
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.AssemblyInfo.cs
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.dll
+C:\Users\bungureanu\source\repos\Templates-ASP.NETCoreEFCoreAngular7\Test.Data\obj\Debug\netcoreapp2.1\Test.Data.pdb
